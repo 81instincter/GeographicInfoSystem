@@ -31,3 +31,15 @@ make
 
 # Run with sample data
 ./main
+
+### Example Input:
+
+Please enter the file with the polygon data: simple-polygons.txt
+Coordinates of query point (non-integer quits)
+	x: 1
+	y: 1
+Query point is inside: squareParcel
+
+### 🧪 Testing
+(bash)
+make test-all

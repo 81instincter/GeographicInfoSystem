@@ -1,6 +1,6 @@
 # GIS Point-in-Polygon Query Tool
 
-A command-line **Geographic Information System (GIS)** tool that determines whether a given point lies inside one or more polygons using the **Ray-Casting Algorithm**. Built as part of COP3530 (Data Structures & Algorithms) at the University of West Florida.
+A command-line **Geographic Information System (GIS)** tool that determines whether a given point lies inside one or more polygons using the **Ray-Casting Algorithm**. 
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-000000?style=for-the-badge)

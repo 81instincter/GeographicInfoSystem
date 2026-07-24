@@ -43,3 +43,9 @@ Query point is inside: squareParcel
 ### 🧪 Testing
 (bash)
 make test-all
+
+### Author
+**Elijah Kenning.**
+
+### License
+See MIT License.

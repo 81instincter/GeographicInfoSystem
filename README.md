@@ -42,8 +42,10 @@ Query point is inside: squareParcel
 ```
 
 ### 🧪 Testing
-(bash)
+```
+bash
 make test-all
+```
 
 ### Author
 **Elijah Kenning.**
